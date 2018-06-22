@@ -24,11 +24,12 @@ It is composed of two parts:
 <div class="panel-heading">Highlights
 </div>
 <div class="panel-body">
-<div style="padding: 15px; padding-bottom: 0px;">Find out what’s new in Bonita Continuous Delivery add-on! Read the release notes.</div>
+<div style="padding: 15px; padding-bottom: 0px;">Find out what’s new in Bonita Continuous Delivery add-on! Read the release notes.
+</div>
 <div class="menu-block-wrapper">
 
 <!--{:.menu .nav}-->
-* [:fa-angle-double-right: What's new in BCD?](release_notes.md)
+* [ >> What's new in BCD?](release_notes.md)
 
 </div>
 </div>
@@ -40,7 +41,8 @@ It is composed of two parts:
 <div class="panel-heading">Getting started
 </div>
 <div class="panel-body">
-<div style="padding: 15px; padding-bottom: 0px;">Follow this guide with step-by-step instructions to start using Bonita Continuous Delivery solution.</div>
+<div style="padding: 15px; padding-bottom: 0px;">Follow this guide with step-by-step instructions to start using Bonita Continuous Delivery solution.
+</div>
 <div class="menu-block-wrapper">
 
 <!--{:.menu .nav}-->
@@ -56,7 +58,8 @@ It is composed of two parts:
 <div class="panel-heading">Howtos
 </div>
 <div class="panel-body">
-<div style="padding: 15px; padding-bottom: 0px;">Check out the tutorials for practical guides about using Bonita Continuous Delivery add-on.</div>
+<div style="padding: 15px; padding-bottom: 0px;">Check out the tutorials for practical guides about using Bonita Continuous Delivery add-on.
+</div>
 <div class="menu-block-wrapper">
 
 <!--{:.menu .nav}-->
