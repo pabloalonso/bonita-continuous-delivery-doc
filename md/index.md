@@ -60,12 +60,6 @@ It is composed of two parts:
 <div class="panel-body">
 <div style="padding: 15px; padding-bottom: 0px;">Check out the tutorials for practical guides about using Bonita Continuous Delivery add-on.
 </div>
-<div class="menu-block-wrapper">
-
-<!--{:.menu .nav}-->
-* [:fa-angle-double-right: BCD Howtos](_howtos.md)
-
-</div>
 </div>
 </div>
 </div>
