@@ -29,7 +29,7 @@ It is composed of two parts:
 <div class="menu-block-wrapper">
 
 <!--{:.menu .nav}-->
-* [ What's new in BCD?](release_notes.md)<!-- {:.fa .fa-angle-double-right} -->
+* [ >> What's new in BCD?](release_notes.md)
 
 </div>
 </div>
@@ -46,7 +46,7 @@ It is composed of two parts:
 <div class="menu-block-wrapper">
 
 <!--{:.menu .nav}-->
-* [ Getting started with BCD](getting_started.md)<!-- {:.fa .fa-angle-double-right} -->
+* [:fa-angle-double-right: Getting started with BCD](getting_started.md)
 
 </div>
 </div>
@@ -60,7 +60,12 @@ It is composed of two parts:
 <div class="panel-body">
 <div style="padding: 15px; padding-bottom: 0px;">Check out the tutorials for practical guides about using Bonita Continuous Delivery add-on.
 </div>
+<div class="menu-block-wrapper">
 
+<!--{:.menu .nav}-->
+* [:fa-angle-double-right: BCD Howtos](_howtos.md)
+
+</div>
 </div>
 </div>
 </div>
