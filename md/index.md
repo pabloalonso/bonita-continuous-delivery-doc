@@ -17,29 +17,37 @@ It is composed of two parts:
 
 ![Bonita Continuous Delivery Capabilities](images/bcd_capabilities.png "Bonita Continuous Delivery Capabilities")
 
-<div class="col-md-4">
-<div class="panel panel-default">
-<div class="panel-heading">Highlights</div>
-<div class="panel-body">
-<div style="padding: 15px; padding-bottom: 0px;">Find out what’s new in Bonita Continuous Delivery add-on! Read the release notes.</div>
-<div class="menu-block-wrapper">
-
-* [:fa-angle-double-right: What's new in BCD?](release_notes.md)
-<!--{ul:.menu .nav}-->
-</div>
-</div>
-</div>
-</div>
+{::options parse_block_html="true" /}
 
 <div class="col-md-4">
 <div class="panel panel-default">
-<div class="panel-heading">Getting started</div>
+<div class="panel-heading">Highlights
+</div>
 <div class="panel-body">
-<div style="padding: 15px; padding-bottom: 0px;">Follow this guide with step-by-step instructions to start using Bonita Continuous Delivery solution.</div>
+<div style="padding: 15px; padding-bottom: 0px;">Find out what’s new in Bonita Continuous Delivery add-on! Read the release notes.
+</div>
 <div class="menu-block-wrapper">
 
+<!--{:.menu .nav}-->
+* [ >> What's new in BCD?](release_notes.md)
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="panel panel-default">
+<div class="panel-heading">Getting started
+</div>
+<div class="panel-body">
+<div style="padding: 15px; padding-bottom: 0px;">Follow this guide with step-by-step instructions to start using Bonita Continuous Delivery solution.
+</div>
+<div class="menu-block-wrapper">
+
+<!--{:.menu .nav}-->
 * [:fa-angle-double-right: Getting started with BCD](getting_started.md)
-<!--{ul:.menu .nav}-->
+
 </div>
 </div>
 </div>
@@ -47,13 +55,10 @@ It is composed of two parts:
 
 <div class="col-md-4">
 <div class="panel panel-default">
-<div class="panel-heading">Howtos</div>
+<div class="panel-heading">Howtos
+</div>
 <div class="panel-body">
-<div style="padding: 15px; padding-bottom: 0px;">Check out the tutorials for practical guides about using Bonita Continuous Delivery add-on.</div>
-<div class="menu-block-wrapper">
-
-* [:fa-angle-double-right: BCD Howtos](_howtos.md)
-<!--{ul:.menu .nav}-->
+<div style="padding: 15px; padding-bottom: 0px;">Check out the tutorials for practical guides about using Bonita Continuous Delivery add-on.
 </div>
 </div>
 </div>
